@@ -322,10 +322,10 @@ input:has(:focus-visible) {
   margin-top: 20px;
 }
 
-.content__card-link_current .content__video-card {
-  background: #545050;
-}
-
 .content__video-card:hover {
   text-decoration: underline;
+}
+
+.content__card-link_current .content__video-card {
+  background: #545050;
 }
